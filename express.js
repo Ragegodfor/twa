@@ -1,4 +1,3 @@
-const twvoucher = require('@fortune-inc/tw-voucher');
 import redeemVoucher from "./index.js";
 import twvoucher from "@ragez/tw-voucher";
 
